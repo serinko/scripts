@@ -1,0 +1,2 @@
+# scripts
+automate repetative admininstartion
